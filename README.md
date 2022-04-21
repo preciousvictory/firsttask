@@ -1,2 +1,2 @@
-# firsttask
-first lesson for side hustle internship
+# Firsttask
+First lesson for Side Hustle Internship
